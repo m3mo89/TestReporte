@@ -1,0 +1,14 @@
+C:\Users\Guillermo Tinoco\Documents\HighBits\localhost\How to(ejemplos de codigos)\TestReporte\TestReporte\bin\Debug\TestReporte.exe.config
+C:\Users\Guillermo Tinoco\Documents\HighBits\localhost\How to(ejemplos de codigos)\TestReporte\TestReporte\obj\Debug\TestReporte.csprojResolveAssemblyReference.cache
+C:\Users\Guillermo Tinoco\Documents\HighBits\localhost\How to(ejemplos de codigos)\TestReporte\TestReporte\obj\Debug\TestReporte.Form1.resources
+C:\Users\Guillermo Tinoco\Documents\HighBits\localhost\How to(ejemplos de codigos)\TestReporte\TestReporte\obj\Debug\TestReporte.Properties.Resources.resources
+C:\Users\Guillermo Tinoco\Documents\HighBits\localhost\How to(ejemplos de codigos)\TestReporte\TestReporte\obj\Debug\TestReporte.csproj.GenerateResource.Cache
+C:\Users\Guillermo Tinoco\Documents\HighBits\localhost\How to(ejemplos de codigos)\TestReporte\TestReporte\bin\Debug\TestReporte.exe
+C:\Users\Guillermo Tinoco\Documents\HighBits\localhost\How to(ejemplos de codigos)\TestReporte\TestReporte\bin\Debug\TestReporte.pdb
+C:\Users\Guillermo Tinoco\Documents\HighBits\localhost\How to(ejemplos de codigos)\TestReporte\TestReporte\bin\Debug\BSCFDIDataContract.dll
+C:\Users\Guillermo Tinoco\Documents\HighBits\localhost\How to(ejemplos de codigos)\TestReporte\TestReporte\bin\Debug\clsRepresentacionImpresa.dll
+C:\Users\Guillermo Tinoco\Documents\HighBits\localhost\How to(ejemplos de codigos)\TestReporte\TestReporte\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Guillermo Tinoco\Documents\HighBits\localhost\How to(ejemplos de codigos)\TestReporte\TestReporte\bin\Debug\BSCFDIDataContract.pdb
+C:\Users\Guillermo Tinoco\Documents\HighBits\localhost\How to(ejemplos de codigos)\TestReporte\TestReporte\bin\Debug\clsRepresentacionImpresa.pdb
+C:\Users\Guillermo Tinoco\Documents\HighBits\localhost\How to(ejemplos de codigos)\TestReporte\TestReporte\obj\Debug\TestReporte.exe
+C:\Users\Guillermo Tinoco\Documents\HighBits\localhost\How to(ejemplos de codigos)\TestReporte\TestReporte\obj\Debug\TestReporte.pdb
